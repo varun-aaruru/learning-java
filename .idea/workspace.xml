@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735fef78-b6e4-4c1e-8d19-5e533b9adb48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MortgageCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzzExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,14 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MortgageCalc">
-    <configuration name="ArithmeticExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArithmeticExpressions" />
-      <module name="HelloAgain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FizzBuzzExercise">
     <configuration name="ArraysPractice" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysPractice" />
       <module name="HelloAgain" />
@@ -57,6 +52,20 @@
     </configuration>
     <configuration name="EscapeSequences" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EscapeSequences" />
+      <module name="HelloAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzzExercise" />
+      <module name="HelloAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfStatements" />
       <module name="HelloAgain" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStatements" />
+      <module name="HelloAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzzExercise" />
+        <item itemvalue="Application.SwitchStatements" />
+        <item itemvalue="Application.IfStatements" />
         <item itemvalue="Application.MortgageCalc" />
         <item itemvalue="Application.ReadingInput" />
-        <item itemvalue="Application.ArithmeticExpressions" />
       </list>
     </recent_temporary>
   </component>
