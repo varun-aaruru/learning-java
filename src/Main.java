@@ -32,5 +32,8 @@ public class Main {
         //here point2 value also changed because reference types are copied by reference (aka address)
         System.out.println(point2);
 
+        //if we use final keyword, it is considered constant
+
+        final float PI = 3.141F;
     }
 }
