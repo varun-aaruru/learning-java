@@ -1,4 +1,5 @@
 import java.text.NumberFormat;
+import java.util.Random;
 
 public class ArithmeticExpressions {
     public static void main(String[] args){
@@ -51,5 +52,9 @@ public class ArithmeticExpressions {
         NumberFormat percent = NumberFormat.getPercentInstance();
         String pResult = percent.format(0.1);
         System.out.println(pResult);
+
+        Random random = new Random();
+        int x1 = random.nextInt(10)+1;
+        System.out.println(x1);
     }
 }
