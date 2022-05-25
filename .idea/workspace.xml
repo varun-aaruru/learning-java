@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="735fef78-b6e4-4c1e-8d19-5e533b9adb48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverloadedMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintFormat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArithmeticExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArithmeticExpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MethodsExamples">
+  <component name="RunManager" selected="Application.PrintFormat">
     <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayLists" />
       <module name="HelloAgain" />
@@ -77,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicalOperators" />
-      <module name="HelloAgain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HelloAgain" />
@@ -98,6 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OverloadedMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverloadedMethods" />
+      <module name="HelloAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintFormat" />
+      <module name="HelloAgain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringsPractice" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringsPractice" />
       <module name="HelloAgain" />
@@ -105,20 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoop" />
-      <module name="HelloAgain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintFormat" />
+        <item itemvalue="Application.OverloadedMethods" />
         <item itemvalue="Application.MethodsExamples" />
         <item itemvalue="Application.ArrayLists" />
         <item itemvalue="Application.ForLoops" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.LogicalOperators" />
       </list>
     </recent_temporary>
   </component>
